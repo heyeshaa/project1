@@ -91,7 +91,6 @@ This project provides practical experience with:
 ## 👩‍💻 Author
 
 **Esha**
-B.Tech — Artificial Intelligence & Data Science
 
 ---
 
